@@ -9,6 +9,7 @@ Odoo Addons for CAE (Coopérative d'Activité et d'Emploi)
 
 This project aim to deal with modules related to manage CAE in Odoo.
 
+
 More information about CAE [FR]
 -------------------------------
 
